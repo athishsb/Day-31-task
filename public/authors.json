@@ -1,0 +1,79 @@
+[
+    {
+      "id": "1",
+      "name": "Leo Tolstoy",
+      "bio": "Leo Tolstoy, born in 1828, was a Russian writer renowned for his epic novels \"War and Peace\" and \"Anna Karenina.\" Tolstoy's works often delved into themes of morality, spirituality, and social justice. Despite his noble background, he embraced simplicity and rejected material wealth later in life. Tolstoy's philosophical and religious explorations greatly influenced thinkers worldwide. He died in 1910, leaving behind a literary legacy that continues to inspire generations.",
+      "dob": "09-09-1828",
+      "image": "https://assets.editorial.aetnd.com/uploads/2016/01/gettyimages-515298614.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Gustave Flaubert",
+      "bio": "Gustave Flaubert, born in 1821, was a French novelist best known for his groundbreaking work \"Madame Bovary,\" which explores the themes of romanticism and bourgeois society. Flaubert's meticulous approach to writing, often described as \"le mot juste\" (the right word), earned him recognition as one of the pioneers of literary realism. Despite facing controversy for his realistic portrayal of adultery in \"Madame Bovary,\" Flaubert continued to produce influential works until his death in 1880.",
+      "dob": "12-12-1821",
+      "image": "https://m.media-amazon.com/images/S/amzn-author-media-prod/8qs7eqnm7h0qdqoo6a6c5l7k95.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Walt Whitman",
+      "bio": "Walt Whitman (1819–1892) was an American poet, essayist, and journalist, known for his groundbreaking work, \"Leaves of Grass.\" He championed individualism, democracy, and the beauty of the human spirit. His poetry, characterized by free verse and expansive language, broke with traditional forms. Whitman's influence on American literature and culture is profound, shaping generations of poets and thinkers.",
+      "dob": "31-05-1819",
+      "image": "https://ei7cr2pn3uw.exactdn.com/wp-content/uploads/2021/01/Walt-Whitman-Portrait.jpg?strip=all&lossy=1&ssl=1"
+    },
+    {
+      "id": "4",
+      "name": "F. Scott Fitzgerald",
+      "bio": "F. Scott Fitzgerald (1896–1940) was an influential American novelist renowned for 'The Great Gatsby,' a classic portrayal of the Jazz Age and the American Dream. His lyrical prose and social commentary define his work, which also includes 'Tender Is the Night' and 'This Side of Paradise.' Fitzgerald's tumultuous personal life, marked by struggles with alcoholism and his relationship with Zelda, often mirrored his characters' experiences.",
+      "dob": "24-09-1896",
+      "image": "https://sevenov.com/wp-content/uploads/2023/02/f-scott-fitzgerald-20230212.jpg"
+    },
+    {
+      "id": "5",
+      "name": "George Eliot",
+      "bio": "George Eliot, born Mary Ann Evans, was a prominent Victorian novelist known for works like 'Middlemarch' and 'The Mill on the Floss.' She employed a male pen name to ensure her writings were taken seriously in the male-dominated literary world. Eliot's novels are celebrated for their psychological depth and moral insight, exploring themes of human nature and society. She passed away on December 22, 1880, leaving behind a rich literary legacy.",
+      "dob": "22-11-1819",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/George_Eliot%2C_por_Fran%C3%A7ois_D%27Albert_Durade.jpg/800px-George_Eliot%2C_por_Fran%C3%A7ois_D%27Albert_Durade.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Miguel de Cervantes",
+      "bio": "Miguel de Cervantes (1547–1616) was a Spanish writer famous for 'Don Quixote,' considered one of the greatest novels ever written. His work pioneered modern literature, blending satire with profound exploration of human nature. Despite personal hardships, Cervantes left an enduring legacy, influencing generations of writers worldwide.",
+      "dob": "29-09-1547",
+      "image": "https://wmagazin.com/wp-content/uploads/2022/06/AV-ppal-Cervantes-Santiago-Munoz-Machado.2022.jpg"
+    },
+    {
+      "id": "7",
+      "name": "James Joyce",
+      "bio": "James Joyce, born 1882, Ireland. Influential 20th-century writer known for modernist fiction like 'Ulysses' and 'A Portrait of the Artist as a Young Man.' Pioneered stream-of-consciousness storytelling. Died 1941, leaving a lasting impact on literature.",
+      "dob": "02-02-1882",
+      "image": "https://desinformemonos.org/wp-content/uploads/2021/01/joyce004.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Charles Dickens",
+      "bio": "Charles Dickens, born 1812 in England, is renowned for his vivid characters and social commentary in novels like 'Oliver Twist' and 'Great Expectations.' He died in 1870, leaving a lasting legacy as one of the greatest novelists of the Victorian era.",
+      "dob": "07-02-1812",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Dickens_Gurney_head.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Fyodor Dostoevsky",
+      "bio": "Fyodor Dostoevsky, born in 1821, was a Russian novelist whose works, including \"Crime and Punishment\" and \"The Brothers Karamazov,\" delve into profound psychological and philosophical themes. He endured imprisonment in Siberia for his involvement in a progressive literary group. Dostoevsky's novels are renowned for their exploration of human nature, morality, and existentialism. He died in 1881, leaving behind a legacy as one of the greatest novelists in world literature.",
+      "dob": "11-11-1821",
+      "image": "https://www.thoughtco.com/thmb/3O10kOuBMGGu-d1Iz3ypDq8kdds=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-515448914-87d20cc75c0847d69253c6b0a3d2ad6a.jpg"
+    },
+    {
+      "id": "10",
+      "name": "William Shakespeare",
+      "bio": "William Shakespeare, born in 1564, is a revered English playwright and poet. His timeless works, such as 'Romeo and Juliet' and 'Hamlet,' explore universal themes and continue to shape literature and theater. He died in 1616, leaving an enduring legacy as one of history's greatest writers.",
+      "dob": "23-04-1564",
+      "image": "https://americanplayers.org/assets/images-people/_1000x750_crop_center-center_none/Shakespeare-William-_-banner.png"
+    },
+    {
+      "id": "11",
+      "name": "Stephen King",
+      "bio": "Stephen King, born in 1947, is a prolific author known for his horror, supernatural fiction, and suspense novels. His works, including 'Carrie,' 'The Shining,' and 'It,' have had a significant impact on popular culture and the horror genre. King's ability to create compelling characters and suspenseful plots has earned him the nickname 'The Master of Horror.'",
+      "dob": "21-09-1947",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-187751114.jpg"
+    }
+  ]

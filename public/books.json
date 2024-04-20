@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "description": "Anna Karenina seems to have everything - beauty, wealth, popularity and an adored son. But she feels that her life is empty until the moment she encounters the impetuous officer Count Vronsky. Their subsequent affair scandalizes society and family alike, and soon brings jealousy and bitterness in its wake.",
+    "isbn": "978-0140449174",
+    "pub_date": "30-01-2003",
+    "image": "https://m.media-amazon.com/images/I/61SflqRsfuL._SY466_.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Madame Bovary",
+    "author": "Gustave Flaubert",
+    "description": "Madame Bovary by Gustave Flaubert is a timeless masterpiece that delves into the complexities of love, desire, and the pursuit of an ideal life. Immerse yourself in Flaubert's exquisite prose and follow the tragic journey of Emma Bovary in this captivating novel.",
+    "isbn": "978-8175993686",
+    "pub_date": "01-05-2016",
+    "image": "https://m.media-amazon.com/images/I/71+3a4iv2LL._SY466_.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Leaves of Grass",
+    "author": "Walt Whitman",
+    "description": "\"Leaves of Grass\" is Walt Whitman's iconic collection of poetry, first published in 1855 and expanded throughout his lifetime. It celebrates the interconnectedness of humanity and nature, with Whitman's free verse and expansive language reflecting his belief in democracy, individualism, and the beauty of everyday life. The collection explores themes of love, spirituality, and the human experience, making it a cornerstone of American literature.",
+    "isbn": "978-1449505714",
+    "pub_date": "03-09-2009",
+    "image": "https://m.media-amazon.com/images/I/71ZUAQQ-9IL._SY466_.jpg"
+  },
+  {
+    "id": "4",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "description": "The Great Gatsby is a literary masterpiece that unveils the glitz, glamour, and disillusionment of the Jazz Age. Set in the vibrant backdrop of 1920s America, this captivating novel follows Jay Gatsby's pursuit of the American Dream, entwined with love, wealth, and tragedy. Prepare to be immersed in F. Scott Fitzgerald's exquisite prose and timeless exploration of human aspirations.",
+    "isbn": "979-8351145013",
+    "pub_date": "01-09-2022",
+    "image": "https://m.media-amazon.com/images/I/61dRoDRubtL._SY466_.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Middlemarch",
+    "author": "George Eliot",
+    "description": "Features Dorothea Brooke, a young idealist whose search for intellectual fulfilment leads her into a disastrous marriage to the pedantic scholar Casaubon; and the charming but tactless Dr Lydgate, whose marriage to the spendthrift beauty Rosamund and pioneering medical methods threaten to undermine his career.",
+    "isbn": "978-1853262371",
+    "pub_date": "05-12-1993",
+    "image": "https://m.media-amazon.com/images/I/71CqciRoTSL._SY466_.jpg"
+  },
+  {
+    "id": "6",
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "description": "Don Quixote is so mesmerized by reading the romances of chivalry that he fixates on becoming a knight errant and further pursues adventures along with his loyal squire, Sancho Panza. As they travel the world together, the aging Quixote's fancy leads them awry, tilting at windmills, fighting with friars, and distorting the rural Spanish landscape into a dreamland of impenetrable fortresses and wicked sorcerers. Simultaneously, the relationship between the two men grows in captivating subtlety.",
+    "isbn": "978-9355209948",
+    "pub_date": "05-01-2023",
+    "image": "https://m.media-amazon.com/images/I/61NlxaWjCYL._SY466_.jpg"
+  },
+  {
+    "id": "7",
+    "title": "Ulysses",
+    "author": "James Joyce",
+    "description": "Tells of the diverse events which befall Leopold Bloom and Stephen Dedalus in Dublin on 16 June 1904, during which Bloom's wife, Molly, commits adultery. Initially deemed obscene in England and the USA, this novel, revolutionary in its Modernistic experimentalism, was hailed as a work of genius by W B Yeats, T S Eliot and Ernest Hemingway.",
+    "isbn": "978-1840226355",
+    "pub_date": "05-01-2010",
+    "image": "https://m.media-amazon.com/images/I/41XKpOe6BjL._SY466_.jpg"
+  },
+  {
+    "id": "8",
+    "title": "Great Expectations",
+    "author": "Charles Dickens",
+    "description": "This is young Pip's story. The story of his yearning to excel, to be loved. The story of his ineptitude and discontentment. In his journey through the various stages of his great expectations, he makes discoveries of human values. The touching, first-person narrative makes the story all the more appealing.",
+    "isbn": "978-8171674589",
+    "pub_date": "01-06-2000",
+    "image": "https://m.media-amazon.com/images/I/61yItwrNwiL._SY466_.jpg"
+  },
+  {
+    "id": "9",
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "description": "Crime and Punishment is set in St Petersburg and paints a vivid picture 18th century Russia before the revolution brought with it the winds of change. The book portrays the rampant poverty and unending pain and suffering of the proletariat. It is in such ghastly circumstances that the character of Raskolnikov is born.",
+    "isbn": "978-8129129475",
+    "pub_date": "08-09-2013",
+    "image": "https://m.media-amazon.com/images/I/61Vmy3GnLAL._SY466_.jpg"
+  },
+  {
+    "id": "10",
+    "title": "King Lear",
+    "author": "William Shakespeare",
+    "description": "King Lear is a tragedy written by William Shakespeare. It tells the tale of a king who bequeaths his power and land to two of his three daughters, after they declare their love for him in a fawning and obsequious manner. His third daughter gets nothing, because she will not flatter him as her sisters had done.",
+    "isbn": "978-9350331347",
+    "pub_date": "24-01-2014",
+    "image": "https://m.media-amazon.com/images/I/61WqWMNuIQL._SY466_.jpg"
+  },
+  {
+    "id": "11",
+    "title": "The Stand",
+    "author": "Stephen King",
+    "description": "\"The Stand\" is Stephen King's post-apocalyptic masterpiece, where a deadly flu wipes out most of humanity, leaving survivors to navigate a world of chaos. As society collapses, characters like Stu Redman and Frannie Goldsmith emerge, along with the enigmatic figures of Mother Abagail and Randall Flagg. It's a tale of good versus evil, resilience, and the struggle to rebuild amidst the ruins.",
+    "isbn": "978-0307743688",
+    "pub_date": "28-06-2006",
+    "image": "https://m.media-amazon.com/images/I/71-Hcgk9ErL._SY466_.jpg"
+  }
+]
+
